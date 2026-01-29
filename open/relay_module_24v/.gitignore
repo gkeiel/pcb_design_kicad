@@ -1,0 +1,8 @@
+# KiCad backups, autosave and cache
+*-backups/
+autosave/
+*.bak
+*.tmp
+*.lck
+*.kicad_prl
+fp-info-cache

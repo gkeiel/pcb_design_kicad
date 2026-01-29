@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="60mm" height="20mm"
+     viewBox="0 0 60 20">
+
+  <!-- K -->
+  <path d="
+    M 2 2 L 6 2 L 6 8 L 11 2 L 15 2
+    L 8 10 L 15 18 L 11 18 L 6 12 L 6 18 L 2 18 Z
+
+    M 4 4 L 4 16 L 5 16 L 5 4 Z
+  " fill="black"/>
+
+  <!-- T -->
+  <path d="
+    M 20 2 L 36 2 L 36 5 L 30.5 5 L 30.5 18 L 25.5 18 L 25.5 5 L 20 5 Z
+
+    M 27.5 6 L 27.5 17 L 28.5 17 L 28.5 6 Z
+  " fill="black"/>
+
+  <!-- S -->
+  <path d="
+    M 42 2 L 56 2 L 56 5 L 46 5 L 46 8 L 56 8
+    L 56 18 L 42 18 L 42 15 L 52 15 L 52 12 L 42 12 Z
+
+    M 44 5 L 44 8 L 45 8 L 45 5 Z
+    M 53 12 L 53 15 L 54 15 L 54 12 Z
+  " fill="black"/>
+
+</svg>
