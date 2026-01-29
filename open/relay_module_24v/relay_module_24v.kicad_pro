@@ -189,7 +189,7 @@
       "track_widths": [
         0.0,
         1.0,
-        2.0
+        3.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "relay_module.kicad_pro",
+    "filename": "relay_module_24v.kicad_pro",
     "version": 3
   },
   "net_settings": {
