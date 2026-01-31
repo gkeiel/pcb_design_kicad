@@ -1607,7 +1607,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 5.08 5.72 180)
+			(at 5.085 -3.745 180)
 			(layer "F.Fab")
 			(uuid "89aea60e-a371-4a5e-8dce-600bc94955f0")
 			(effects
@@ -3543,16 +3543,89 @@
 		(layer "F.SilkS")
 		(uuid "e8bd8fa4-1a94-4577-b88c-eb24584aa077")
 	)
-	(gr_rect
-		(start 134.112 69.08)
-		(end 164.338 140.2)
+	(gr_arc
+		(start 164.338 137.2)
+		(mid 163.45932 139.32132)
+		(end 161.338 140.2)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "59208bc4-203f-4491-8c57-fa84510742f0")
+		(uuid "26741626-b112-42e5-9786-e0c867e87e5d")
+	)
+	(gr_line
+		(start 161.338 140.2)
+		(end 137.112 140.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "40fdc399-9d10-49a6-bb7e-d56d5bb11a41")
+	)
+	(gr_line
+		(start 137.112 69.08)
+		(end 161.338 69.08)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "73507673-55f9-48ca-99de-9104c1581298")
+	)
+	(gr_line
+		(start 164.338 72.08)
+		(end 164.338 137.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7d5a6270-79f9-40d1-ad6a-afd2076de91f")
+	)
+	(gr_line
+		(start 134.112 137.2)
+		(end 134.112 72.08)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9ac6a878-336b-421f-9f01-350a49cdcee1")
+	)
+	(gr_arc
+		(start 161.338 69.08)
+		(mid 163.45932 69.95868)
+		(end 164.338 72.08)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c102c4fb-a0c0-4305-9ede-6743f4873de4")
+	)
+	(gr_arc
+		(start 134.112 72.08)
+		(mid 134.99068 69.95868)
+		(end 137.112 69.08)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "da807b79-3498-44e1-a68f-5bbdbfd764ad")
+	)
+	(gr_arc
+		(start 137.112 140.2)
+		(mid 134.99068 139.32132)
+		(end 134.112 137.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f9dd9516-f2b9-4952-9a54-22848c97e6bc")
 	)
 	(gr_text "DC+"
 		(at 149.25 71.25 180)

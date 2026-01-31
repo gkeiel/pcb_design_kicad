@@ -1,6 +1,6 @@
 # Printed circuit board designs
 
-A repository with designs of printed circuit boards (PCBs) for electronic circuits developed with KiCad. Each project has its own folder.
+A repository with **designs of printed circuit boards (PCBs)** for electronic circuits developed with KiCad. Each project has its own folder.
 
 The following projects are available:
 - [relay_module_24v](./open/relay_module_24v) 
@@ -14,12 +14,12 @@ The following projects are available:
 Example of a PCB design to a four-channel 24V relay module.
 <p align="center">
     <img
-      src="images/relay_module_24v_t.png"
+      src="images/relay_module_24v_4_t.png"
       alt=" "
       width="733"
     />
     <img
-      src="images/relay_module_24v_b.png"
+      src="images/relay_module_24v_4_b.png"
       alt=" "
       width="733"
     />
@@ -40,4 +40,4 @@ Example of a PCB design to a single-channel 12V relay module with optocoupler.
     />
 </p>
 
-Most of these public projects consider single-sided 1oz boards and Through-Hole Technology (THT) for components. Improved designs or Surface Mount Technology (SMT) boards can be developed on request, commercially only.
+Most of these public projects consider single-sided 1oz boards and Through-Hole Technology (THT) for components. Improved designs or Surface Mount Technology (SMT) boards can be developed on request, **commercially only**.
