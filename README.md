@@ -1,14 +1,16 @@
 # Printed circuit board designs
 
+[![Premium](https://img.shields.io/badge/Premium-Payhip-blue)](https://payhip.com/gkeiel)
+
 A repository with **designs of printed circuit boards (PCBs)** for electronic circuits developed with KiCad. Each project has its own folder, focused on a specific problem.
 
 The following projects are available:
-- [relay module 24v](./open/relay_module_24v) 
-- [relay module 24v_4](./open/relay_module_24v_4) 
-- [relay_module 12v](./relay_module_12v_optocoupler)
-- [power supply with linear regulator 78xx](./open/power_supply_linear_regulator_78xx)
-- [power supply with linear regulator lm317](./open/power_supply_linear_regulator_lm317)
-- [Arduino Nano current driver (carrier board)](./open/arduino_nano_current_driver)
+- [relay module 24v](./relay_module_24v) 
+- [relay module 24v 4](./relay_module_24v_4) 
+- [relay module 12v](./relay_module_12v_optocoupler)
+- [power supply with linear regulator 78xx](./power_supply_linear_regulator_78xx)
+- [power supply with linear regulator lm317](./power_supply_linear_regulator_lm317)
+- [Arduino Nano current driver (carrier board)](./carrier_board_arduino_current_driver)
 
 ## Relay module 24V 4 channels
 Example of a PCB design to a four-channel 24V relay module.
@@ -40,7 +42,10 @@ Example of a PCB design to a single-channel 12V relay module with optocoupler.
     />
 </p>
 
-These are **open versions** which consider single-sided 1oz boards and Through-Hole Technology (THT) for components. Improved designs or Surface Mount Technology (SMT) boards can be developed on request.
+
+## Premium version
+
+This repository contains **open versions** which consider single-sided 1oz boards and Through-Hole Technology (THT) for components. Improved designs or boards using Surface Mount Technology (SMT) can be developed on request.
 
 **Premium versions**, with additional features, extended documentation and support, are available at:  
-👉 https://payhip.com/gkeiel
+👉 https://payhip.com/gkeiel 
