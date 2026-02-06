@@ -1,7 +1,6 @@
 # KiCad backups, autosave and cache
 *-backups/
 autosave/
-quotations/ 
 *.bak
 *.tmp
 *.lck

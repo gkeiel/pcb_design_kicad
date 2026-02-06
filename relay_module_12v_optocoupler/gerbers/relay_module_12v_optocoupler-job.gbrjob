@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.4"
     },
-    "CreationDate": "2026-02-02T16:53:59-03:00"
+    "CreationDate": "2026-02-05T16:56:58-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,39 +34,14 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "relay_module_12v_optocoupler-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "relay_module_12v_optocoupler-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "relay_module_12v_optocoupler-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "relay_module_12v_optocoupler-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
       "Path": "relay_module_12v_optocoupler-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "relay_module_12v_optocoupler-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "relay_module_12v_optocoupler-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
     },
     {
       "Path": "relay_module_12v_optocoupler-B_Mask.gbr",

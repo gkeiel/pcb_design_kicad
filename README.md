@@ -6,8 +6,9 @@ A repository with **designs of printed circuit boards (PCBs)** for electronic ci
 
 The following projects are available:
 - [relay module 24v](./relay_module_24v) 
-- [relay module 24v 4](./relay_module_24v_4) 
+- [relay module 24v 4 channels](./relay_module_24v_4) 
 - [relay module 12v](./relay_module_12v_optocoupler)
+- [relay module 12v SMT](./relay_module_12v_optocoupler_smt)
 - [power supply with linear regulator 78xx](./power_supply_linear_regulator_78xx)
 - [power supply with linear regulator lm317](./power_supply_linear_regulator_lm317)
 - [Arduino Nano current driver (carrier board)](./carrier_board_arduino_current_driver)
