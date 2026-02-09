@@ -28,16 +28,26 @@ Example of a PCB design to a four-channel 24V relay module.
     />
 </p>
 
-## Relay module 12V optocoupler
+## Relay module 12V optocoupler SMT
 Example of a PCB design to a single-channel 12V relay module with optocoupler.
 <p align="center">
     <img
-      src="images/relay_module_12v_optocoupler_t.png"
+      src="images/relay_module_12v_optocoupler_smt_t.png"
       alt=" "
       width="733"
     />
     <img
-      src="images/relay_module_12v_optocoupler_b.png"
+      src="images/relay_module_12v_optocoupler_smt_b.png"
+      alt=" "
+      width="733"
+    />
+</p>
+
+## Arduino Nano current driver and sensor
+Example of a PCB design to a carrier board for Arduino Nano with PWM switches and sensor.
+<p align="center">
+    <img
+      src="images/carrier_board_arduino_current_driver_t.png"
       alt=" "
       width="733"
     />
