@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U3";"TO-220-3_Vertical";1;"L7812";;;
+2;"D4,D1,D2,D3";"D_DO-41_SOD81_P10.16mm_Horizontal";4;"1N4007";;;
+3;"C2";"CP_Radial_D6.3mm_P2.50mm";1;"C";;;
+4;"C1";"CP_Radial_D10.0mm_P5.00mm";1;"C_Polarized";;;
+5;"D5";"LED_D3.0mm";1;"LED";;;
+6;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"R";;;
+7;"J1,J2";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";2;"Conn_01x02_Pin";;;
