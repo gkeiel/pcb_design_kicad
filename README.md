@@ -30,11 +30,6 @@ Example of a PCB design to a four-channel 24V relay module.
       alt=" "
       width="733"
     />
-    <img
-      src="images/relay_module_24v_4_b.png"
-      alt=" "
-      width="733"
-    />
 </p>
 
 ## Relay module 12V optocoupler SMT
@@ -42,11 +37,6 @@ Example of a PCB design to a single-channel 12V relay module with optocoupler.
 <p align="center">
     <img
       src="images/relay_module_12v_optocoupler_smt_t.png"
-      alt=" "
-      width="733"
-    />
-    <img
-      src="images/relay_module_12v_optocoupler_smt_b.png"
       alt=" "
       width="733"
     />
