@@ -5,7 +5,7 @@
 A repository with **designs of printed circuit boards (PCBs)** for electronic circuits developed with KiCad. Each project has its own folder, focused on a specific problem.
 
 The following projects are available:
-- [full-bridge CC driver Arduino Nano (carrier board)](./arduino_nano_cc_driver_mosfet)
+- [full-bridge CC driver Arduino Nano (carrier board)](./arduino_nano_fullbridge_cc_driver)
 - [relay module 24v 4 channels](./relay_module_24v_4) 
 - [relay module 12v](./relay_module_12v_optocoupler)
 - [relay module 12v SMT](./relay_module_12v_optocoupler_smt)
@@ -16,7 +16,7 @@ The following projects are available:
 Example of a PCB design to a carrier board for Arduino Nano with PWM switches and sensor.
 <p align="center">
     <img
-      src="images/arduino_nano_cc_driver_mosfet_t.png"
+      src="images/arduino_nano_fullbridge_cc_driver_t.png"
       alt=" "
       width="733"
     />
