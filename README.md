@@ -6,6 +6,7 @@ A repository with **designs of printed circuit boards (PCBs)** for electronic ci
 
 The following projects are available:
 - [full-bridge CC driver Arduino Nano (carrier board)](./arduino_nano_fullbridge_cc_driver)
+- [low-side CC driver Arduino Nano (carrier board)](./arduino_nano_low_side_cc_driver)
 - [relay module 24v 4 channels](./relay_module_24v_4) 
 - [relay module 12v](./relay_module_12v_optocoupler)
 - [relay module 12v SMT](./relay_module_12v_optocoupler_smt)
@@ -13,10 +14,20 @@ The following projects are available:
 - [power supply with linear regulator lm317](./power_supply_linear_regulator_lm317)
 
 ## Arduino Nano full-bridge continuous current (CC) driver and sensor
-Example of a PCB design to a carrier board for Arduino Nano with PWM switches and sensor.
+Example of a PCB design to a carrier board for Arduino Nano with full-bride switches and sensors.
 <p align="center">
     <img
       src="images/arduino_nano_fullbridge_cc_driver_t.png"
+      alt=" "
+      width="733"
+    />
+</p>
+
+## Arduino Nano low-side continuous current (CC) driver and sensor
+Example of a PCB design to a carrier board for Arduino Nano with 2 low-side switches and sensors.
+<p align="center">
+    <img
+      src="images/arduino_nano_low_side_cc_driver_t.png"
       alt=" "
       width="733"
     />

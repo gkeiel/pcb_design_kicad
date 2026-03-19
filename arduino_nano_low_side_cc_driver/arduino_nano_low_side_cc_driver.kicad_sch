@@ -4661,7 +4661,7 @@
 			)
 		)
 	)
-	(global_label "L1b"
+	(global_label "L2b"
 		(shape bidirectional)
 		(at 255.27 59.69 180)
 		(fields_autoplaced yes)
@@ -4903,7 +4903,7 @@
 			)
 		)
 	)
-	(global_label "L2a"
+	(global_label "L1a"
 		(shape bidirectional)
 		(at 255.27 67.31 180)
 		(fields_autoplaced yes)
@@ -4925,7 +4925,7 @@
 			)
 		)
 	)
-	(global_label "L1a"
+	(global_label "L2a"
 		(shape bidirectional)
 		(at 255.27 57.15 180)
 		(fields_autoplaced yes)
@@ -5365,7 +5365,7 @@
 			)
 		)
 	)
-	(global_label "L2b"
+	(global_label "L1b"
 		(shape bidirectional)
 		(at 255.27 69.85 180)
 		(fields_autoplaced yes)
@@ -5811,7 +5811,7 @@
 	)
 	(symbol
 		(lib_id "Diode:B120-E3")
-		(at 229.87 60.96 270)
+		(at 168.91 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5820,7 +5820,7 @@
 		(fields_autoplaced yes)
 		(uuid "28b6efc2-d66b-4ae4-9d33-03daf0c5cb69")
 		(property "Reference" "D2"
-			(at 232.41 60.6424 90)
+			(at 171.45 60.6424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5829,7 +5829,7 @@
 			)
 		)
 		(property "Value" "B120-E3"
-			(at 232.41 61.9124 90)
+			(at 171.45 61.9124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5839,7 +5839,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 225.425 60.96 0)
+			(at 164.465 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5848,7 +5848,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88946/b120.pdf"
-			(at 229.87 60.96 0)
+			(at 168.91 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5857,7 +5857,7 @@
 			)
 		)
 		(property "Description" "20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)"
-			(at 229.87 60.96 0)
+			(at 168.91 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6682,16 +6682,15 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF540N")
-		(at 217.17 59.69 0)
+		(at 156.21 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6252dc9d-9f74-4237-8c68-b8d22112fc99")
 		(property "Reference" "Q2"
-			(at 223.52 58.4199 0)
+			(at 162.56 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6700,7 +6699,7 @@
 			)
 		)
 		(property "Value" "IRF540N"
-			(at 223.52 60.9599 0)
+			(at 162.56 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6709,7 +6708,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
-			(at 222.25 61.595 0)
+			(at 161.29 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6720,7 +6719,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf540n.pdf"
-			(at 222.25 63.5 0)
+			(at 161.29 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6730,7 +6729,7 @@
 			)
 		)
 		(property "Description" "33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"
-			(at 217.17 59.69 0)
+			(at 156.21 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7545,16 +7544,15 @@
 	)
 	(symbol
 		(lib_id "Diode:B120-E3")
-		(at 168.91 60.96 270)
+		(at 229.87 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a3d39c96-8047-42b6-ad6d-721043d846e6")
 		(property "Reference" "D1"
-			(at 171.45 60.6424 90)
+			(at 232.41 60.6424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7563,7 +7561,7 @@
 			)
 		)
 		(property "Value" "B120-E3"
-			(at 171.45 61.9124 90)
+			(at 232.41 61.9124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7573,7 +7571,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 164.465 60.96 0)
+			(at 225.425 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7582,7 +7580,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88946/b120.pdf"
-			(at 168.91 60.96 0)
+			(at 229.87 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7591,7 +7589,7 @@
 			)
 		)
 		(property "Description" "20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)"
-			(at 168.91 60.96 0)
+			(at 229.87 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7686,7 +7684,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF540N")
-		(at 156.21 59.69 0)
+		(at 217.17 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7695,7 +7693,7 @@
 		(fields_autoplaced yes)
 		(uuid "b652c303-e62c-4baf-9b97-0cb0646fef04")
 		(property "Reference" "Q1"
-			(at 162.56 58.4199 0)
+			(at 223.52 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7704,7 +7702,7 @@
 			)
 		)
 		(property "Value" "IRF540N"
-			(at 162.56 60.9599 0)
+			(at 223.52 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7713,7 +7711,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
-			(at 161.29 61.595 0)
+			(at 222.25 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7724,7 +7722,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf540n.pdf"
-			(at 161.29 63.5 0)
+			(at 222.25 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7734,7 +7732,7 @@
 			)
 		)
 		(property "Description" "33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"
-			(at 156.21 59.69 0)
+			(at 217.17 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
