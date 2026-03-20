@@ -2196,7 +2196,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 149.86 120.65 90)
 			(effects
 				(font
@@ -2702,7 +2702,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 158.75 138.4299 0)
 			(effects
 				(font
@@ -3002,7 +3002,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED 3mm"
 			(at 187.198 106.68 90)
 			(effects
 				(font

@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -190,7 +190,8 @@
         0.0,
         0.5,
         1.0,
-        3.5
+        3.5,
+        4.2
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {

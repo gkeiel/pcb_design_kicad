@@ -190,7 +190,7 @@
         0.0,
         0.5,
         1.0,
-        3.5
+        4.2
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "relay_module_12v_optocoupler_din_smt_payhip.kicad_pro",
+    "filename": "relay_module_12v_optocoupler_smt.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "power_supply_linear_regulator.step",

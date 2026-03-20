@@ -5,29 +5,29 @@
 A repository with **designs of printed circuit boards (PCBs)** for electronic circuits developed with KiCad. Each project has its own folder, focused on a specific problem.
 
 The following projects are available:
-- [full-bridge CC driver Arduino Nano (carrier board)](./arduino_nano_fullbridge_cc_driver)
-- [low-side CC driver Arduino Nano (carrier board)](./arduino_nano_low_side_cc_driver)
+- [full-bridge DC driver Arduino Nano (carrier board)](./arduino_nano_fullbridge_dc_driver)
+- [low-side DC driver Arduino Nano (carrier board)](./arduino_nano_low_side_dc_driver)
 - [relay module 24v 4 channels](./relay_module_24v_4) 
 - [relay module 12v](./relay_module_12v_optocoupler)
 - [relay module 12v SMT](./relay_module_12v_optocoupler_smt)
 - [power supply with linear regulator 78xx](./power_supply_linear_regulator_78xx)
 - [power supply with linear regulator lm317](./power_supply_linear_regulator_lm317)
 
-## Arduino Nano full-bridge continuous current (CC) driver and sensor
+## Arduino Nano full-bridge DC driver and sensor
 Example of a PCB design to a carrier board for Arduino Nano with full-bride switches and sensors.
 <p align="center">
     <img
-      src="images/arduino_nano_fullbridge_cc_driver_t.png"
+      src="images/arduino_nano_fullbridge_dc_driver_t.png"
       alt=" "
       width="733"
     />
 </p>
 
-## Arduino Nano low-side continuous current (CC) driver and sensor
+## Arduino Nano low-side DC driver and sensor
 Example of a PCB design to a carrier board for Arduino Nano with 2 low-side switches and sensors.
 <p align="center">
     <img
-      src="images/arduino_nano_low_side_cc_driver_t.png"
+      src="images/arduino_nano_low_side_dc_driver_t.png"
       alt=" "
       width="733"
     />
